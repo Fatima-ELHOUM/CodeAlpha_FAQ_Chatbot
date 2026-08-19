@@ -1,0 +1,90 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! Welcome to CodeAlpha. How can I assist you with your internship today?"
+    },
+    {
+        "question": "hi",
+        "answer": "Hi there! I am the CodeAlpha AI assistant. What would you like to know about our internship programs?"
+    },
+    {
+        "question": "who are you",
+        "answer": "I am an AI chatbot designed to help CodeAlpha interns with their questions regarding tasks, submissions, and company details."
+    },
+    {
+        "question": "what is codealpha?",
+        "answer": "CodeAlpha is a leading software development company dedicated to driving innovation and excellence across emerging technologies[cite: 1]."
+    },
+    {
+        "question": "what does the ai internship offer?",
+        "answer": "The AI internship provides hands-on experience in AI model development, machine learning workflows, and real-time data processing[cite: 1]."
+    },
+    {
+        "question": "what are the perks of the internship?",
+        "answer": "Internship perks include an Offer Letter, a QR Verified Completion Certificate, a Unique ID Certificate, a Letter of Recommendation (based on performance), Job Placement Support, and Resume Building Support[cite: 1]."
+    },
+    {
+        "question": "will i get a certificate?",
+        "answer": "Yes, you will receive a QR Verified Completion Certificate, provided you complete a minimum of two or three tasks[cite: 1]."
+    },
+    {
+        "question": "how many tasks do i need to complete?",
+        "answer": "To be eligible for the internship certificate, you must complete any 3 or 2 out of the 4 tasks listed in your domain[cite: 1]."
+    },
+    {
+        "question": "what happens if i submit only one task?",
+        "answer": "Submitting only one task will be considered incomplete, and certificates will not be issued in such cases[cite: 1]."
+    },
+    {
+        "question": "how should i name my github repository?",
+        "answer": "You must upload your complete source code to GitHub in a repository named exactly: CodeAlpha_ProjectName[cite: 1]."
+    },
+    {
+        "question": "do i need to post on linkedin?",
+        "answer": "Yes, you need to share your internship status on LinkedIn tagging @CodeAlpha, and also post a video explanation of your project with the GitHub repo link[cite: 1]."
+    },
+    {
+        "question": "how do i submit my tasks?",
+        "answer": "You are required to submit your completed task only through the Submission Form that will be shared in your respective WhatsApp group[cite: 1]."
+    },
+    {
+        "question": "what is task 1?",
+        "answer": "Task 1 is building a Language Translation Tool where users can enter text, select source and target languages, and get a translated response using an API like Google Translate or Microsoft Translator[cite: 1]."
+    },
+    {
+        "question": "what is task 2?",
+        "answer": "Task 2 is building a Chatbot for FAQs. You need to collect FAQs, preprocess text using NLP libraries like NLTK or SpaCy, and match user questions using techniques like cosine similarity[cite: 1]."
+    },
+    {
+        "question": "what is task 3?",
+        "answer": "Task 3 is Music Generation with AI. You need to collect MIDI music data, build a deep learning model using RNNs (like LSTM) or GANs, and generate new music sequences[cite: 1]."
+    },
+    {
+        "question": "what is task 4?",
+        "answer": "Task 4 is Object Detection and Tracking. You need to use OpenCV for video input, a pre-trained model like YOLO or Faster R-CNN for detection, and algorithms like SORT or Deep SORT for tracking[cite: 1]."
+    },
+    {
+        "question": "what is the official website?",
+        "answer": "Our official website is www.codealpha.tech[cite: 1]."
+    },
+    {
+        "question": "how can i contact codealpha support?",
+        "answer": "You can reach us via email at services@codealpha.tech or services.codealpha@gmail.com, or through WhatsApp at +91 9336576683[cite: 1]."
+    },
+    {
+        "question": "can i get a letter of recommendation?",
+        "answer": "Yes, a Letter of Recommendation is provided, but it is strictly based on your performance during the internship[cite: 1]."
+    },
+    {
+        "question": "what technologies are used in the internship?",
+        "answer": "Depending on your tasks, you might use NLP libraries (NLTK, SpaCy), Deep Learning frameworks (for RNNs/GANs), APIs (Google Translate), and Computer Vision tools (OpenCV, YOLO)[cite: 1]."
+    },
+    {
+        "question": "is the internship remote?",
+        "answer": "While the document does not explicitly state the location, the tasks are submitted via a form and GitHub, and support is online, which implies a remote structure[cite: 1]."
+    },
+    {
+        "question": "thank you",
+        "answer": "You're very welcome! If you have any more questions about your CodeAlpha tasks, feel free to ask. Good luck with your internship!"
+    }
+]
